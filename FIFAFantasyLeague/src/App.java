@@ -1,5 +1,14 @@
 public class App {
+    
+
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        FifaCupStats stats = new FifaCupStats();
+        stats.start();
+        stats.loadPlayers();
+        for (Player player : stats.players) {
+            System.out.println(player);
+        }
+        stats.close();
     }
+    
 }
