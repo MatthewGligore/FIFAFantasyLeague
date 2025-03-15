@@ -29,8 +29,8 @@ Unfortunately, the project did not compile due to technical issues. However, the
 - Improve the UI with JavaScript for a more interactive experience.  
 
 ## Contributors ✨  
-- **Your Name**  
-- **Teammates' Names**  
+- **Matthew Gligore**  
+- **Sidibaba Simpara, Jesserochasalazar**  
 
 ## License 📝  
 This project is open-source under the MIT License.  
